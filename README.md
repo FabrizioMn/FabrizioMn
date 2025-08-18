@@ -4,7 +4,6 @@
 Soy estudiante de Ingeniería de Software interesado en el apartado Front-End. Me gusta aprender constantemente. Mi objetivo es desarrollar aplicaciones web interactivas y de alto rendimiento que ofrezcan una experiencia de usuario unica y eficiente.
 - Actualmente ando aprendiendo...
   - React js
-  - PHP
 
 
 
