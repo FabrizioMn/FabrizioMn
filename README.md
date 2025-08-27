@@ -1,10 +1,13 @@
+# 👋 ¡Hola! Soy Fabrizio Medina
+
 <img src="https://github.com/FabrizioMn/FabrizioMn/blob/main/FABRIZIO.png" width="100%">
 
-<h1 align="center"><b>Hola , soy Fabrizio Medina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-Estudiante enfocado en desarrollo web el Front-end.
+## 🚀 Sobre mí
+ 🎓 **Estudiante de Ingeniería de Software** con una obsesión saludable por el desarrollo web. Me especializo en front-end, pero estoy entrenando al backend para que no se sienta excluido.
+ 💻Me gusta escribir código limpio, modular y funcional, aunque a veces el CSS decide que hoy no es el día.
 
 
-## Skills
+## 💼 Tech Stack
 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
