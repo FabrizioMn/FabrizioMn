@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Fabrizio Medina
 
-<img src="https://github.com/FabrizioMn/FabrizioMn/blob/main/banner.png" width="100%">
+<img src="https://github.com/FabrizioMn/FabrizioMn/blob/main/Banner.png" width="100%">
 
 ## 🚀 Sobre mí
  - 🎓 **Estudiante de Ingeniería de Software** con una obsesión saludable por el desarrollo web. Me especializo en front-end, pero estoy entrenando al backend para que no se sienta excluido.
