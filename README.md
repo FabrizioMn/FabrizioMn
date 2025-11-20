@@ -1,5 +1,3 @@
-# 👋 ¡Hola! Soy Fabrizio Medina
-
 <img src="https://github.com/FabrizioMn/FabrizioMn/blob/main/Banner.png" width="100%">
 
 ## 🚀 Sobre mí
